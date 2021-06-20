@@ -2,15 +2,10 @@
 <html>
 <body>
 
-<h1>Select your date of birth </h1>
-<h2>enter your age year <h2>
-<h3> age <h3>
-</body>
-</html>
-<!DOCTYPE html>
-<html>
-<body>
+  <h1> BASIC AGE CALCULATOR APP </h1>
 
 <p>
-This app calculates the age by given date of birth , year.
+This app calculates the age of a person based on given date of birth. It is a simple basic app for bignner in android studio.
 </p>
+  </body>
+  </html>
