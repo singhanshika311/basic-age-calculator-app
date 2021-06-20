@@ -12,5 +12,5 @@
 <body>
 
 <p>
-This app calcualtes the age by given date of birth , year.
+This app calculates the age by given date of birth , year.
 </p>
