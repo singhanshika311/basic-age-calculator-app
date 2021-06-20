@@ -7,3 +7,10 @@
 <h3> age <h3>
 </body>
 </html>
+<!DOCTYPE html>
+<html>
+<body>
+
+<p>
+This app calcualtes the age by given date of birth , year.
+</p>
