@@ -9,7 +9,7 @@ This app calculates the age of a person based on given date of birth. It is a si
 </p>
 <img src="https://github.com/singhanshika311/basic-age-calculator-app/blob/main/pic.jpeg" width=200 height=300 align="left">
  <div>
-   <img src="https://github.com/singhanshika311/basic-age-calculator-app/blob/main/pic.jpeg" width=200 height=300 align="left">
+   <img src="https://github.com/singhanshika311/basic-age-calculator-app/blob/main/pic2.jpeg" width=200 height=300 align="left">
   </div>
    
   </body>
