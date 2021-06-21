@@ -7,6 +7,6 @@
 <p>
 This app calculates the age of a person based on given date of birth. It is a simple basic app for beginners in android studio.
 </p>
-<img src="https://github.com/singhanshika311/singhanshika311/blob/main/pic.jpeg" width=200 height=300 align="left">
+<img src="https://github.com/singhanshika311/singhanshika311/basic-age-calculator-app/main/pic.jpeg" width=200 height=300 align="left">
   </body>
   </html>
